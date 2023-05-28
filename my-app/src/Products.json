@@ -1,0 +1,33 @@
+[
+    {
+        "Product_Name" : "Asus Laptop",
+        "Price" : "60,000",
+        "img_url" : "https://www.bhphotovideo.com/images/images2500x2500/asus_x501a_rh31_intel_i3_2_30ghz_4gb_memory_320gb_929655.jpg"
+    },
+    {
+        "Product_Name" : "Acer",
+        "Price" : "55,000",
+        "img_url" : "https://betanews.com/wp-content/uploads/2014/11/front.jpg"
+    },
+    {
+        "Product_Name" : "H.P",
+        "Price" : "50,000",
+        "img_url" : "https://images-na.ssl-images-amazon.com/images/G/02/aplusautomation/vendorimages/0b925aaf-0920-4019-a78e-dbe23cc1d1fa.jpg._CB536181688_.jpg"
+    },
+    {
+        "Product_Name" : "DELL",
+        "Price" : "65,000",
+        "img_url" : "http://3.bp.blogspot.com/-Cl-JAdZr0es/T8IzZTfIl2I/AAAAAAAAAEk/a6jiHltzz2g/s1600/41.jpg"
+    },
+    {
+        "Product_Name" : "APPLE MACBOOK",
+        "Price" : "1,12,000",
+        "img_url" : "https://i1.wp.com/store.rpc.global/wp-content/uploads/2018/10/23b66e94-1db0-5179-8cfd-41a199dc3cce.jpg"
+    },
+    {
+        "Product_Name" : "REDMI",
+        "Price" : "71,000",
+        "img_url" : "https://www.saibumi.com/img_artikel/88Redmi%20Notebook%2014.jpg"
+    }
+    
+]
